@@ -1,0 +1,4 @@
+a=int(raw_input("enter the no"))
+b=int(raw_input("enter the no"))
+c=a**b;
+print c;

@@ -1,0 +1,10 @@
+a=int(raw_input("Enter the 1st no."));
+b=int(raw_input("Enter the 2nd no."));
+c=int(raw_input("Enter the 3rd no."));
+if(a>b>c):
+    print "a";
+elif(b>a>c):
+    print "b";
+else:
+    print "c";    
+      

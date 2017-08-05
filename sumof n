@@ -1,0 +1,4 @@
+n=int(raw_input("enter the number till you need"))
+z=((n*n)+n)/2;
+print z;
+      

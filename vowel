@@ -1,0 +1,13 @@
+a=raw_input("enter th letter ");
+if(a=='a'):
+     print("its vowel");
+elif(a=='e'):
+     print("its vowel");
+elif(a=='i'):
+      print("its vowel");
+elif(a=='o'):
+      print("its vowel");
+elif(a=='u'):
+      print("its vowel");
+else:
+      print("its not vowel");

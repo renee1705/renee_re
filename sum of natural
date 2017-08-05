@@ -1,0 +1,5 @@
+a=int(raw_input("enter the no till what you need the sum"))
+z=0;
+for i in range(0,a+1):
+    z=z+i;
+print z;
